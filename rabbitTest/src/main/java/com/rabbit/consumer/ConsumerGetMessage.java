@@ -55,5 +55,6 @@ public class ConsumerGetMessage {
 		
 		return message;
 	}
+
 	
 }
