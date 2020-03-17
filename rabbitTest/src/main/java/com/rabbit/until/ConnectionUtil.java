@@ -11,7 +11,8 @@ public class ConnectionUtil {
 		
 		//定义工厂连接
 		ConnectionFactory factory = new ConnectionFactory();
-		
+
+
 		//设置服务地址
 		factory.setHost("localhost");
 		
