@@ -50,8 +50,9 @@ public class DirectGetMessage1 {
 			Thread.sleep(1000);
 			channel.basicAck(delivery.getEnvelope().getDeliveryTag(), false);
 		}
-		
-	
+	}
+	public static void resTestGit(){
+		System.out.println("测试git是否已经好了!");
 	}
 
 }
