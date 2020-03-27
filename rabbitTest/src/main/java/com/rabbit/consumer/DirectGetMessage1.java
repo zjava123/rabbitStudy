@@ -52,6 +52,8 @@ public class DirectGetMessage1 {
 		}
 	}
 	public static void resTestGit(){
+
+
 		System.out.println("测试git是否已经好了!");
 	}
 
